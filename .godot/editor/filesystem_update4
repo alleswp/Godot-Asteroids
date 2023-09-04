@@ -1,0 +1,8 @@
+res://scenes/game.tscn
+res://scenes/player.tscn
+res://scenes/laser.tscn
+res://scenes/asteroid.tscn
+res://scenes/hud.tscn
+res://scenes/ui_life.tscn
+res://scenes/game_over_scene.tscn
+res://scenes/player_spawn_area.tscn

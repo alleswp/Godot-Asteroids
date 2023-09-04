@@ -1,0 +1,16 @@
+Node2D
+GPUParticles2D
+AudioStreamPlayer2D
+AudioStreamPlayer
+CollisionShape2D
+Area2D
+Button
+Label
+Control
+HBoxContainer
+TextureRect
+CanvasLayer
+Node
+Sprite2D
+VisibleOnScreenNotifier2D
+CharacterBody2D
